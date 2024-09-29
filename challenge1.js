@@ -15,7 +15,7 @@ hideTxt.addEventListener("click", byeTxt);
 const greetTxt = () =>{
     paragraph.textContent = "Hello world";
     paragraph.style.textAlign ="center";
-    paragraph.style.color ="tomato";
+    paragraph.style.color ="red";
 }
 showTxt.addEventListener("click",greetTxt);
 

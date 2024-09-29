@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(245, 248, 247);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    
+}
+
+.btn{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+#btn-1{
+    background-color: black;
+    color: aliceblue;
+}
+#btn-2{
+    background-color: brown;
+    color: aliceblue;
+}
+#btn-3{
+    background-color: blue;
+    color: aliceblue;
+}
+#btn-4{
+    background-color: red;
+    color: aliceblue;
+}
+#btn-5{
+    background-color: pink;
+    color: aliceblue;
+}
+#btn-6{
+    background-color: purple;
+    color: aliceblue;
+}
+#btn-7{
+    background-color:white;
+    color: black;
+}
